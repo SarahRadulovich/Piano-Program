@@ -1,2 +1,2 @@
 # Piano-Program
-User drags notes onto a scale, the computer plays the sound back.
+The user can place different notes onto a scale. After completing their composition, the computer will play back their newly created music.
